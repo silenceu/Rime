@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	12
+#@/user_id	bb47f1b7-aca8-4dd3-a659-de5e7d580c1a
+hua le 	花了	c=1 d=1 t=8
+jin nian 	今年	c=1 d=1 t=2
+kuai qian 	塊錢	c=1 d=1 t=9
+mei 	美	c=1 d=1 t=10
+mei tian 	每天	c=3 d=2.98506 t=5
+san da 	三大	c=1 d=1 t=12
+shuo le 	說了	c=1 d=1 t=1
+tuan 	團	c=1 d=1 t=11
+yi dun fan 	一頓飯	c=1 d=1 t=7
+zhe 	折	c=1 d=1 t=6
