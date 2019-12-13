@@ -2,15 +2,15 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561294610
-    default.custom: 1576121113
-    key_bindings: 1576121113
+    default.custom: 1576122031
+    key_bindings: 1576122031
     key_bindings.custom: 0
-    punctuation: 1576121113
+    punctuation: 1576122031
     punctuation.custom: 0
-    symbols: 1576121113
+    symbols: 1576122033
     symbols.custom: 0
-    wubi_pinyin.custom: 1576121113
-    wubi_pinyin.schema: 1576121113
+    wubi_pinyin.custom: 1576122031
+    wubi_pinyin.schema: 1576122031
 abc_segmentor:
   extra_tags:
     - reverse_lookup
