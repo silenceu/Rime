@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1576122955
+    squirrel.custom: 1576207587
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -70,7 +70,6 @@ preset_color_schemes:
     name: "沙漠夜／Mojave Dark"
     text_color: 0xdedddd
   system_blue:
-    app_options: {com.microsoft.VSCode: {zh_simp: "true單〕"}}
     author: "scomper <scomper@gmail.com>"
     back_color: 0xFFFFFF
     border_color: 0xE0B693

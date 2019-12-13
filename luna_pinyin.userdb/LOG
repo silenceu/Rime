@@ -1,5 +1,5 @@
-2019/12/13-11:19:56.557967 0x10ee1fdc0 Recovering log #55
-2019/12/13-11:19:56.558004 0x10ee1fdc0 Level-0 table #57: started
-2019/12/13-11:19:56.560479 0x10ee1fdc0 Level-0 table #57: 152 bytes OK
-2019/12/13-11:19:56.567581 0x10ee1fdc0 Delete type=3 #53
-2019/12/13-11:19:56.567665 0x10ee1fdc0 Delete type=0 #55
+2019/12/13-11:26:33.190708 0x10ee1fdc0 Recovering log #67
+2019/12/13-11:26:33.190744 0x10ee1fdc0 Level-0 table #69: started
+2019/12/13-11:26:33.190763 0x10ee1fdc0 Level-0 table #69: 0 bytes OK
+2019/12/13-11:26:33.198070 0x10ee1fdc0 Delete type=3 #65
+2019/12/13-11:26:33.198150 0x10ee1fdc0 Delete type=0 #67
